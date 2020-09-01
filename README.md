@@ -1,5 +1,5 @@
 ### Date created
-8/31/2020
+Aug. 31, 2020
 
 ### Project Title
 Bikeshare Project
